@@ -371,3 +371,7 @@ nav a.active {
 	}
 }
 /* media query*/
+
+* {
+	display: none !important;
+}
